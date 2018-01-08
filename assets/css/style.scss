@@ -1,0 +1,15 @@
+---
+---
+
+$font-family-sans-serif:  'Silkscreen', sans-serif;
+$body-bg: #234a56;
+$body-color: #c1dee2;
+
+@import "_fonts";
+@import "bootstrap/bootstrap";
+
+header {
+  h2 {
+    color: #89b9c5;
+  }
+}

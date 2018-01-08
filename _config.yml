@@ -1,5 +1,38 @@
 title: Ah-Maze-Ing
-description: A maze puzzle game for iPhone coming soon!
+description: Addictive retro maze puzzle game for iPhone
 show_downloads: false
 google_analytics: 'UA-527778-20'
-theme: jekyll-theme-tactile
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+repository: Ah-Maze-Ing/Ah-Maze-Ing.github.io
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  enable_coderay: false
+  parse_block_html: true
+  math_engine: mathjax # Forced Default from GH Pages
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-sitemap
+exclude:
+  - assets/bootstrap
+  - Gemfile
+  - Gemfile.lock
+sass:
+  style: compressed
+
+# CANNOT CHANGE THESE
+lsi: false
+safe: true
+source: ""
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
