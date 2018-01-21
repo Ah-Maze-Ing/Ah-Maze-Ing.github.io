@@ -15,13 +15,13 @@ You can download the game from the [Apple AppStore](https://itunes.apple.com/us/
 
 ## Credits
 
-* Move Sound - https://freesound.org/people/LloydEvans09/sounds/187025/
-* Countdown Ready Sound - https://freesound.org/people/JapanYoshiTheGamer/sounds/361254/
-* Countdown GO Sound - https://freesound.org/people/JapanYoshiTheGamer/sounds/361253/
-* Win / End of level - https://freesound.org/people/LittleRobotSoundFactory/sounds/270333/
-* Lose / Out Of Time - https://freesound.org/people/LittleRobotSoundFactory/sounds/270329/
-* Music - https://freesound.org/people/Tristan_Lohengrin/sounds/343835/
-* Font (Silkscreen) - https://kottke.org/plus/type/silkscreen/
+* [Move Sound](https://freesound.org/people/LloydEvans09/sounds/187025/)
+* [Countdown Ready Sound](https://freesound.org/people/JapanYoshiTheGamer/sounds/361254/)
+* [Countdown GO Sound](https://freesound.org/people/JapanYoshiTheGamer/sounds/361253/)
+* [Win / End of level](https://freesound.org/people/LittleRobotSoundFactory/sounds/270333/)
+* [Lose / Out Of Time](https://freesound.org/people/LittleRobotSoundFactory/sounds/270329/)
+* [Music](https://freesound.org/people/Tristan_Lohengrin/sounds/343835/)
+* [Font (Silkscreen)](https://kottke.org/plus/type/silkscreen/)
 
 
 </div><div class="col-md-4">
