@@ -3,7 +3,7 @@ layout: default
 language: en
 ---
 
-<div class="container"><div class="row"><div class="col-md-8 flex-last">
+<div class="container"><div class="row"><div class="col-md-8 order-md-2">
 
 ## What is it?
 
@@ -24,6 +24,6 @@ You can download the game from the [Apple AppStore](https://itunes.apple.com/us/
 * [Font (Silkscreen)](https://kottke.org/plus/type/silkscreen/)
 
 
-</div><div class="col-md-4">
+</div><div class="col-md-4 order-md-1">
 {% include slideshow.html %}
 </div></div></div>
